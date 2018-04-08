@@ -18,7 +18,7 @@ public class FIrstActivity extends AppCompatActivity {
         op = new Operations();
 
         int sum = op.add(10,20);
-        
+
 
     }
 
